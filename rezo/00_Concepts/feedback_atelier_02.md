@@ -29,4 +29,4 @@ fin de fichier qui explique :
   ```
 
 ---
-*Évalué sur le commit `4bc5905` (fichier `00_Concepts/atelier02.py`).*
+*Évalué sur le commit `66e2045` (fichier `rezo/00_Concepts/atelier02.py`).*
