@@ -22,4 +22,4 @@ sans sur-ingénierie.
 - Pas de fonction `main()` ni de garde — pas grave ici.
 
 ---
-*Évalué sur le commit `ed41da0` (fichier `atelier03.py`).*
+*Évalué sur le commit `4bc5905` (fichier `00_Concepts/atelier03.py`).*
